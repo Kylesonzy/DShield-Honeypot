@@ -141,7 +141,7 @@ In this scan, I performed a much more aggressive approach by using the `-T5` tim
 **Again, this is a honeypot setup, so it's designed to appear vulnerable and attract attacks for analysis purposes.**
 
 Now it may take some time for the logs to showup but typically you would want to go visit the SANS dashboard and look in the firewall report section to find enumeration scans of your system or any type of scan really..
-
+I was too lazy to wait for the logs/I authorized my system to recognize my VM.
 ![Insane Nmap Scan](/images/end.png)
 
 ## Troubleshooting
