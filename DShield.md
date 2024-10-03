@@ -1,5 +1,5 @@
 
-# Setting Up a Raspberry Pi Honeypot using DShield
+# DShield Honeypot
 
 ## Description
 This guide walks through setting up a Raspberry Pi as a honeypot using the DShield project. By the end of the process, you'll have your Raspberry Pi running as an Internet-facing honeypot, sending logs to the DShield dashboard. At least I did haha.
